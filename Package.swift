@@ -13,8 +13,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/vapor/vapor", from: "4.0.0-beta.3.9"),
-        //.package(url: "https://github.com/barisatamer/SwiftGoogleCloudTTS.git", from: "0.0.5"),
-        .package(url: "../swift-google-tts", from: "0.0.12")
+        .package(url: "https://github.com/barisatamer/SwiftGoogleCloudTTS.git", from: "0.0.12"),
     ],
     targets: [
         .target(

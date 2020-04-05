@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/swift-server/async-http-client.git",
         "state": {
           "branch": null,
-          "revision": "48e284d1ea6d0e8baac1af1c4ad8bd298670caf6",
-          "version": "1.0.1"
+          "revision": "037b70291941fe43de668066eb6fb802c5e181d2",
+          "version": "1.1.1"
         }
       },
       {
@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/vapor/async-kit.git",
         "state": {
           "branch": null,
-          "revision": "8e9d41f31848809732661563b334c1bb1c93cf1a",
-          "version": "1.0.0-beta.2.2"
+          "revision": "1f145cffe2109d0fc420bc03b31dacf9de2c7573",
+          "version": "1.0.0"
         }
       },
       {
@@ -24,8 +24,8 @@
         "repositoryURL": "https://github.com/attaswift/BigInt",
         "state": {
           "branch": null,
-          "revision": "19f5e8a48be155e34abb98a2bcf4a343316f0343",
-          "version": "5.0.0"
+          "revision": "2bbb8a7addeb79ceccf45acac9f6e2a07cbe9680",
+          "version": "5.1.0"
         }
       },
       {
@@ -33,8 +33,8 @@
         "repositoryURL": "https://github.com/vapor/console-kit.git",
         "state": {
           "branch": null,
-          "revision": "54585747b6a5c435b7852c026028710fd7a94bec",
-          "version": "4.0.0-beta.2.1"
+          "revision": "7a97a5ea7fefe61cf2c943242113125b0f396a98",
+          "version": "4.1.0"
         }
       },
       {
@@ -51,35 +51,17 @@
         "repositoryURL": "https://github.com/googleapis/google-auth-library-swift.git",
         "state": {
           "branch": null,
-          "revision": "f3c652646735e27885e81e710d4147f33eb6c26f",
-          "version": "0.5.1"
+          "revision": "7b1c9cd4ffd8cb784bcd8b7fd599794b69a810cf",
+          "version": "0.5.2"
         }
       },
       {
-        "package": "GRPC",
+        "package": "grpc-swift",
         "repositoryURL": "https://github.com/grpc/grpc-swift.git",
         "state": {
           "branch": null,
-          "revision": "be70633c91d722496e5fcb225f822edbd5c36a5a",
-          "version": "1.0.0-alpha.9"
-        }
-      },
-      {
-        "package": "multipart-kit",
-        "repositoryURL": "https://github.com/vapor/multipart-kit.git",
-        "state": {
-          "branch": null,
-          "revision": "b41a49b5756ac3fbf8f2b07228a7e75f9b60731a",
-          "version": "4.0.0-beta.2"
-        }
-      },
-      {
-        "package": "open-crypto",
-        "repositoryURL": "https://github.com/vapor/open-crypto.git",
-        "state": {
-          "branch": null,
-          "revision": "90c49bc68ee6d992fa13cf84ca8fc54b97eaf4cc",
-          "version": "4.0.0-beta.2"
+          "revision": "373ffd54c1c1a319d0ddac9476d13be9023584bb",
+          "version": "1.0.0-alpha.11"
         }
       },
       {
@@ -87,26 +69,35 @@
         "repositoryURL": "https://github.com/vapor/routing-kit.git",
         "state": {
           "branch": null,
-          "revision": "6a8a1636ad26494b03f3c72d74a420fc3a44949c",
-          "version": "4.0.0-beta.3"
+          "revision": "35da702471cbcc308f58d38aa8fea971fa3fb166",
+          "version": "4.0.0"
         }
       },
       {
         "package": "swift-backtrace",
-        "repositoryURL": "https://github.com/ianpartridge/swift-backtrace.git",
+        "repositoryURL": "https://github.com/swift-server/swift-backtrace.git",
         "state": {
           "branch": null,
-          "revision": "eaf2cef011c0c23d1701aa60b364def8015dc3c7",
-          "version": "1.1.1"
+          "revision": "f2fd8c4845a123419c348e0bc4b3839c414077d5",
+          "version": "1.2.0"
         }
       },
       {
-        "package": "SwiftGoogleCloudTTS",
-        "repositoryURL": "/Users/barisatamer/Desktop/swift-google-tts",
+        "package": "swift-crypto",
+        "repositoryURL": "https://github.com/apple/swift-crypto.git",
         "state": {
           "branch": null,
-          "revision": "1029b62ad758236ed70add6308c00a834773dbab",
-          "version": "0.0.12"
+          "revision": "d67ac68d09a95443303e9d6e37b34e7ba101d5f1",
+          "version": "1.0.1"
+        }
+      },
+      {
+        "package": "swift-log",
+        "repositoryURL": "https://github.com/apple/swift-log.git",
+        "state": {
+          "branch": null,
+          "revision": "74d7b91ceebc85daf387ebb206003f78813f71aa",
+          "version": "1.2.0"
         }
       },
       {
@@ -114,8 +105,8 @@
         "repositoryURL": "https://github.com/apple/swift-metrics.git",
         "state": {
           "branch": null,
-          "revision": "3fefedaaef285830cc98ae80231140122076a7e0",
-          "version": "1.2.0"
+          "revision": "708b960b4605abb20bc55d65abf6bad607252200",
+          "version": "2.0.0"
         }
       },
       {
@@ -123,8 +114,8 @@
         "repositoryURL": "https://github.com/apple/swift-nio.git",
         "state": {
           "branch": null,
-          "revision": "4409b57d4c0c40d41ac2b320fccf02e4d451e3db",
-          "version": "2.13.0"
+          "revision": "e876fb37410e0036b98b5361bb18e6854739572b",
+          "version": "2.16.0"
         }
       },
       {
@@ -141,8 +132,8 @@
         "repositoryURL": "https://github.com/apple/swift-nio-http2.git",
         "state": {
           "branch": null,
-          "revision": "c1bfb7ce3f201e41ff60ef38fa63e67e0eb66a24",
-          "version": "1.9.0"
+          "revision": "82eb3fa0974b838358ee46bc6c5381e5ae5de6b9",
+          "version": "1.11.0"
         }
       },
       {
@@ -150,8 +141,8 @@
         "repositoryURL": "https://github.com/apple/swift-nio-ssl.git",
         "state": {
           "branch": null,
-          "revision": "cf54f5c1db1c3740a6c7d662dc8569c150c3846c",
-          "version": "2.6.0"
+          "revision": "ae213938e151964aa691f0e902462fbe06baeeb6",
+          "version": "2.7.1"
         }
       },
       {
@@ -159,8 +150,8 @@
         "repositoryURL": "https://github.com/apple/swift-nio-transport-services.git",
         "state": {
           "branch": null,
-          "revision": "c7f06384dc5ce7e8506de5ed9b59e35b4d88c64b",
-          "version": "1.3.0"
+          "revision": "85a67aea7caf5396ed599543dd23cffeb6dbbf96",
+          "version": "1.5.1"
         }
       },
       {
@@ -173,12 +164,21 @@
         }
       },
       {
-        "package": "vapor",
-        "repositoryURL": "https://github.com/vapor/vapor",
+        "package": "SwiftGoogleCloudTTS",
+        "repositoryURL": "https://github.com/barisatamer/SwiftGoogleCloudTTS.git",
         "state": {
           "branch": null,
-          "revision": "67165212d2f18b1f9a5df4eb27638e1f88ecbccf",
-          "version": "4.0.0-beta.3.10"
+          "revision": "4fee59f3866410bde837f5fab716102e155352bc",
+          "version": "0.0.14"
+        }
+      },
+      {
+        "package": "vapor",
+        "repositoryURL": "https://github.com/vapor/vapor.git",
+        "state": {
+          "branch": null,
+          "revision": "ad2aeccfbdd1275c0a8817a8024f0b98d65e3880",
+          "version": "4.0.0-rc.3.12"
         }
       },
       {
@@ -186,8 +186,8 @@
         "repositoryURL": "https://github.com/vapor/websocket-kit.git",
         "state": {
           "branch": null,
-          "revision": "766b4b0005a158550c345671c8e7cea42af104b6",
-          "version": "2.0.0-beta.2.3"
+          "revision": "f46778e3f1452cc80a0a6c422cdc52a5d0258795",
+          "version": "2.0.0"
         }
       }
     ]

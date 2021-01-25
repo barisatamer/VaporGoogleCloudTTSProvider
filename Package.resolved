@@ -168,8 +168,8 @@
         "repositoryURL": "https://github.com/barisatamer/SwiftGoogleCloudTTS.git",
         "state": {
           "branch": null,
-          "revision": "4fee59f3866410bde837f5fab716102e155352bc",
-          "version": "0.0.14"
+          "revision": "035584bf77bb1ea587ee4c53860adf8d31df23c5",
+          "version": "0.0.16"
         }
       },
       {
